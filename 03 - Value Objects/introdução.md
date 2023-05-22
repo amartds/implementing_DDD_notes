@@ -59,9 +59,9 @@ Agora pense que uma empresa x reside em um endereço, concorda que esse endereç
 
 ## Resumo
 
-1 - Value objects são imutáveis
-2 - Value objects servem entidades
-3 - Value objects podem estar contidos em um agregado
-4 - Validações sempre devem ocorrer dentro do value object
-5 - Se for escrever um set isso não é um value object
-6 - Em c# structs combinam com value objects, pois são de natureza imutável
+- 1 - Value objects são imutáveis
+- 2 - Value objects servem entidades
+- 3 - Value objects podem estar contidos em um agregado
+- 4 - Validações sempre devem ocorrer dentro do value object
+- 5 - Se for escrever um set isso não é um value object
+- 6 - Em c# structs combinam com value objects, pois são de natureza imutável
