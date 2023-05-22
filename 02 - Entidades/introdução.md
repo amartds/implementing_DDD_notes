@@ -21,12 +21,14 @@ class Pessoa {
 Entidade anemica
 
 ```cs
+class Pessoa {
   public Guid Id {get;set;};
   public string Nome {get;set};
 
   // segue estritamente o modelo anemico do banco de dados, geralmente não tem comportamento rico
 
   //TODOL: alguma implementação específica para o ORM
+}
 
 ```
 
